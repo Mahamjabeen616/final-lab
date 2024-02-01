@@ -1,5 +1,18 @@
 #include <iostream>
+#include <iostream>
 using namespace std;
+Class E-learning{
+
+
+}
+Class Authenticator{
+
+}
+Class Management{
+
+}
+
+
 int main()
 {
  cout << "Hellow world
