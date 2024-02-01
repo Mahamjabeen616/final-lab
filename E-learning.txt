@@ -12,6 +12,9 @@ Class Management{
 
 }
 
+Class Enroll{
+
+}
 
 int main()
 {
