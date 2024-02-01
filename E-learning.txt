@@ -8,7 +8,8 @@ Class E-learning{
 Class Authenticator{
 
 }
-Class Management{
+Class CourseManagement{
+cout << "manager is working ";
 
 }
 
